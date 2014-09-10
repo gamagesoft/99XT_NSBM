@@ -1,0 +1,4 @@
+C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\BI_DB_Connector_GUI\obj\Debug\BI_DB_Connector_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\BI_DB_Connector_GUI\obj\Debug\BI_DB_Connector_GUI.Form1.resources
+C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\BI_DB_Connector_GUI\obj\Debug\BI_DB_Connector_GUI.Properties.Resources.resources
+C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\BI_DB_Connector_GUI\obj\Debug\BI_DB_Connector_GUI.csproj.GenerateResource.Cache
